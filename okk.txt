@@ -2,3 +2,5 @@ this file will be uploaded to github.
 this is a sample file.
 ok.
 now i am updating this file.
+
+now i am trying a slave branch. this is a part of slave branch and not master branch.
